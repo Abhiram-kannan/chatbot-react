@@ -1,0 +1,14 @@
+[
+  {
+    "keywords": ["earthquake", "quake", "tremor"],
+    "response": "During an earthquake, stay calm. Drop, cover, and hold on under sturdy furniture. Stay away from windows."
+  },
+  {
+    "keywords": ["flood", "flooding", "water"],
+    "response": "In case of flooding, move to higher ground, avoid walking through water, and stay informed via local authorities."
+  },
+  {
+    "keywords": ["fire", "wildfire"],
+    "response": "In case of a fire, evacuate immediately. Cover your nose with a damp cloth to avoid inhaling smoke."
+  }
+]
