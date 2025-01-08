@@ -1,0 +1,14 @@
+{
+  "earthquake": {
+    "response": "In case of an earthquake, drop, cover, and hold on. Move away from windows, doors, and heavy objects."
+  },
+  "flood": {
+    "response": "In case of a flood, move to higher ground. Avoid walking or driving through floodwaters."
+  },
+  "fire": {
+    "response": "In case of a fire, exit the building immediately. Avoid using elevators and stay low to avoid smoke inhalation."
+  },
+  "tornado": {
+    "response": "In case of a tornado, take shelter in a basement or small windowless room on the lowest level of the building."
+  }
+}
